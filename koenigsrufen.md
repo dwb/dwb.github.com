@@ -38,7 +38,7 @@ In the Austrian pack there are:
 
 ## The Deal
 
-One player - say the owner of the cards - deals one card at a time anti-clockwise (starting with the player to their right) until a king appears. The player with this king deals first.
+One player -- say the owner of the cards -- deals one card at a time anti-clockwise (starting with the player to their right) until a king appears. The player with this king deals first.
 
 The dealer shuffles and offers the pack to their left to be cut. If the player on the left does cut, then dealer places six cards face down in the centre of the table as the "talon" and then deals anti-clockwise in packets of six cards, starting with forehand (the player to the dealer's right). Six cards are then dealt to each player again to give twelve cards to each hand.
 
@@ -64,11 +64,11 @@ If a forehand bid of Rufer is passed around, forehand may switch to Trischaken (
 
 ## Calling a King
 
-If declarer bid Rufer (and did not switch it to Trischaken or Sechserdreier as above), Besser Rufer, or Solo, they must now call a king by naming its suit. No-one reveals if they do or do not hold the called king. Declarer may, if they wish, call a king which they hold - in this case they do not play with a partner and the game is scored as such, but this situation is not revealed until the king is played. King Ultimo is also scored as normal in this case. If declarer holds exactly three kings, they may call "the other king" or "the fourth king".
+If declarer bid Rufer (and did not switch it to Trischaken or Sechserdreier as above), Besser Rufer, or Solo, they must now call a king by naming its suit. No-one reveals if they do or do not hold the called king. Declarer may, if they wish, call a king which they hold -- in this case they do not play with a partner and the game is scored as such, but this situation is not revealed until the king is played. King Ultimo is also scored as normal in this case. If declarer holds exactly three kings, they may call "the other king" or "the fourth king".
 
 ## Exchange with the Talon
 
-If declarer bid Rufer, Besser Rufer, or Dreier, they turn over the top three cards of the talon, followed by the bottom three - showing them to all players. They must choose which group of three cards to take into their hand - the remaining three go to the defenders to score as points, as if it was a won trick.
+If declarer bid Rufer, Besser Rufer, or Dreier, they turn over the top three cards of the talon, followed by the bottom three -- showing them to all players. They must choose which group of three cards to take into their hand -- the remaining three go to the defenders to score as points, as if it was a won trick.
 
 If the called king is found in the talon declarer may concede, automatically losing that hand and paying the points accordingly. This prevents anyone from doubling the game with a Kontra. If declarer decides to play on, they take one half of the talon as normal. A conceded Besser Rufer is deemed to have included announcing Pagat. Whether they concede or play alone, declarer collects from or pays to all three opponents.
 
@@ -82,13 +82,13 @@ Now the announcements and/or doublings start. In Bettel, Piccolo, Bettel Ouvert 
 
 Otherwise, forehand starts by calling zero or more announcements or doublings (as in the table below), and then "pass" to signal they are not calling any more. Defenders (opponents of the declarer) must prefix any announcements they make with "defensive".
 
-The game and any announced feats are scored separately - even in Besser Rufer - and so can be doubled separately by any successive opponent by announcing "kontra the [game or feat]". This doubles the amount of points the game or feat is worth - both to win or lose by. The declarer or announcer of the feat then has the option to re-kontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
+The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the [game or feat]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to re-kontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
 
 A defender announcing 45 or Valat must first kontra or subkontra the game, and if declarer or their partner announces 45 after a kontra then they must first re-contra.
 
 It is legal for someone to bid Besser Rufer when they don't hold a bird, hoping they find one in the talon. If they don't, they still must announce one even though they cannot make it. Similarly, declarer can announce King Ultimo for their partner's king, hoping that they make it.
 
-In Solo and Solodreier all announceable feats, including Valat, count double - whether announced or not.
+In Solo and Solodreier all announceable feats, including Valat, count double -- whether announced or not.
 
 Announcements and doubling finish when three players in succession have said nothing but "pass".
 
@@ -100,7 +100,7 @@ If a suit is led it must be followed if possible. If no card of the led suit is 
 
 In negative contracts (see table), play is also subject to the "rising rule": if a player can legally play a card that beats those already played, they must do so.
 
-If a player has announced Pagat, Uhu, Kakadu or King Ultimo, they must try to make the feat even if it is clear they cannot - the relevant card cannot be deliberately played early or late unless they have no other legal card to play. If there is a trick where one of many announced cards is forced, the player can choose which one to play.
+If a player has announced Pagat, Uhu, Kakadu or King Ultimo, they must try to make the feat even if it is clear they cannot -- the relevant card cannot be deliberately played early or late unless they have no other legal card to play. If there is a trick where one of many announced cards is forced, the player can choose which one to play.
 
 If a suit is led and no trump is played the highest card in that suit wins the trick, otherwise the highest trump does. The winner of the trick leads the next. Tricks are kept face-down by their winner or a player known by the whole table to be on the same side.
 
@@ -110,7 +110,7 @@ In Rufer, Besser Rufer, Dreier, and Besser Dreier, the three cards discarded by 
 
 In Solo and Solodreier, the talon is given to the defending side unless Solo was played and the called king is found in it, in which case in Cheltenham, the whole talon is taken by the defender. In this case the declarer pays to or receives from all three defenders, but if they failed, any Kontra is cancelled unless it had been Re-Kontra'd or the declarer had made any announcements.
 
-In Solo and Solodreier, if declarer (or partner, if any) announced 45 and Valat (announced or not) is made, the defence do not get the talon - so even in the unlikely event that the talon holds twenty-six points, the 45 is still made. Similarly, if in Solo the defence bid 45 and make Valat and the called king is in a twenty-six-point talon, then the 45 would be allowed.
+In Solo and Solodreier, if declarer (or partner, if any) announced 45 and Valat (announced or not) is made, the defence do not get the talon -- so even in the unlikely event that the talon holds twenty-six points, the 45 is still made. Similarly, if in Solo the defence bid 45 and make Valat and the called king is in a twenty-six-point talon, then the 45 would be allowed.
 
 To count points, for each set of three cards, or two odd cards at the end of the pile, count one point, plus:
 
