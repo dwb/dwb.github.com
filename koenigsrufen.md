@@ -225,7 +225,7 @@ It is thought this curious way of counting is borrowed from a three-handed game,
   </tbody>
 </table>
 
-## Announcements
+### Announcements
 
 <table>
   <thead>
