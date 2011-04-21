@@ -10,6 +10,7 @@ layout: article
 Königsrufen is a trick-taking game for four players in which there is a permanent set of trumps. The contract played is determined by bidding, and in most contracts the object is not to win a certain number of tricks but to capture in the tricks cards amounting to a certain value.
 
 The order of a game is as follows:
+
 1. The deal
 2. Bidding for game
 3. Doubling and announcements (if allowed for the game that was bid)
@@ -18,7 +19,7 @@ The order of a game is as follows:
 
 ### The Cards
 
-A 54—card Austrian Tarock pack is used. Packs of the same design are used in Hungary, the Czech Republic and Slovenia under the very similar names "Tarokk" and "Tarok". A pack of the same composition is also known in Germany, but is called a "Cego" pack (for the game of the same name), and the pack called "Tarock" in Germany is unsuitable -- it has only 36 cards.
+A 54-card Austrian Tarock pack is used. Packs of the same design are used in Hungary, the Czech Republic and Slovenia under the very similar names "Tarokk" and "Tarok". A pack of the same composition is also known in Germany, but is called a "Cego" pack (for the game of the same name), and the pack called "Tarock" in Germany is unsuitable -- it has only 36 cards.
 
 In Cheltenham, a Piatnik "Industrie und Glück" Tarock deck is standard.
 
@@ -249,10 +250,10 @@ It is thought this curious way of counting is borrowed from a three-handed game,
       <td>Called king is won by declarer or declarer's partner in last trick.</td>
     </tr>
     <tr>
-      <tr>Uhu</tr>
-      <tr>3</tr>
-      <tr>1</tr>
-      <tr>Use Uhu to win last trick but one.</tr>
+      <td>Uhu</td>
+      <td>3</td>
+      <td>1</td>
+      <td>Use Uhu to win last trick but one.</td>
     </tr>
     <tr>
       <td>Kakadu</td>
