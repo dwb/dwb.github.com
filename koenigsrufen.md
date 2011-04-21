@@ -43,7 +43,6 @@ In the Austrian pack there are:
 
 The Pagat, Uhu and Kakadu are collectively known as the "birds".
 
-
 ## The Deal
 
 One player -- say the owner of the cards -- deals one card at a time anti-clockwise (starting with the player to their right) until a king appears. The player with this king deals first.
