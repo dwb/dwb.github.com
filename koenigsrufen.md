@@ -19,6 +19,10 @@ The order of a game is as follows:
 4. Playing of tricks
 5. Scoring
 
+It should be noted, there are two sorts of "points" in Königsrufen. Cards have points values which are often used to determine which side wins one particular game. Games have points values which originally corresponded to amounts of money: the game scoring system arose out of people pushing money across the table. Königsrufen in Cheltenham is not played for money, so it is simulated with game points - the sum of all players' ongoing scores at any point in time should be zero.
+
+There are always two sides in a game (apart from in Trischaken, which is "every player for themselves", and will be explained later): declarer, and if they are playing with one, their partner; and the defenders. The two sides always win or lose as one, and each player gains or loses the same number of points as every other player on their side.
+
 ### The Cards
 
 A 54-card Austrian Tarock pack is used. Packs of the same design are used in Hungary, the Czech Republic and Slovenia under the very similar names "Tarokk" and "Tarok". A pack of the same composition is also known in Germany, but is called a "Cego" pack (for the game of the same name), and the pack called "Tarock" in Germany is unsuitable -- it has only 36 cards.
@@ -36,6 +40,8 @@ In the Austrian pack there are:
     * XXI: Mond (Italian for "world", and on Italian cards the world is indeed illustrated on this card. Also German for "moon", and so the moon is shown on modern Austrian cards)
 * Four court cards and four pip cards each in hearts and diamonds, ranking King (high), Queen, Knight, Jack, 1, 2, 3, 4 (low).
 * Four court cards and four pip cards each in clubs and spades, ranking King (high), Queen, Knight, Jack, 10, 9, 8, 7 (low).
+
+The Pagat, Uhu and Kakadu are collectively known as the "birds".
 
 
 ## The Deal
@@ -60,9 +66,9 @@ The next game is normally dealt by the person to the right of the old dealer, bu
 
 Forehand opens with a bid of Rufer (which only forehand may bid), or any other contract apart from Trischaken or Sechserdreier.
 
-Bidding then follows anti-clockwise around the table, ending with forehand again. Each player in turn must make a bid of a contract higher (that is, further down the table below) than the previous bid, or pass, forfeiting their chance to bid entirely. When all players have bid or passed, forehand must either pass, or make one final bid, which can be the same contract or higher than the highest bid thus far. The winner of the bidding is known as the declarer.
+Bidding then follows anti-clockwise around the table. Each player in turn must make a bid of a contract higher (that is, further down the table below) than the previous bid, or pass, forfeiting their chance to bid entirely. When all players have bid or passed forehand must either pass, or make one final bid, which can be the same contract or higher than the previous bid. Forehand is the only player that can outbid by bidding the same contract as the previous bidder. The outbid player, if any, may not bid further. The winner of the bidding is known as the declarer.
 
-If a forehand bid of Rufer is passed around, forehand may switch to Trischaken (by immediately leading a card, skipping announcements and doubling and proceeding directly to the game) or Sechserdreier (by turning over all six cards of the talon).
+If a forehand bid of Rufer is passed around, forehand may switch to Trischaken (by immediately leading a card, skipping announcements and doubling and proceeding directly to the game) or Sechserdreier (by turning over all six cards of the talon), but not any other contract.
 
 ## Calling a King
 
@@ -80,13 +86,17 @@ Declarer must then put down as many cards as they picked up to return their hand
 
 ## Announcements and Doubling
 
-Now the announcements and/or doublings start. In Bettel, Piccolo, Bettel Ouvert and Piccolo Ouvert, there are no announceable feats available to any player and so forehand must pass. In Sechserdreier, announceable feats are available to all players except forehand. Any feats that forehand makes (or fails at) in Sechserdreier are scored at the unannounced rate.
+Now the announcements and/or doublings start. Announcements are feats that you are betting that you or your partner (if any) will be able to accomplish in the game, and doublings double the game point value of the game or an opponent's previous announcement. Except that only a member of declarer's side may announce King Ultimo, either side may make any announcement, and all players on the same side gain or lose equally, whoever actually made the announcement.
+
+All the announcements apart from 45 also have a game point value when attempted, but not announced in this phase. Apart from 45 and Valat, this includes attempting but failing to make a feat -- such as losing the last trick having played the Pagat.
+
+In Bettel, Piccolo, Bettel Ouvert and Piccolo Ouvert, there are no announceable feats available to any player and so forehand must pass. In Sechserdreier, announceable feats are available to all players except forehand, and so again forehand must pass. Any feats that forehand makes (or fails at) in Sechserdreier are scored at the unannounced rate.
 
 Otherwise, forehand starts by calling zero or more announcements or doublings (as in the table below), and then "pass" to signal they are not calling any more. Defenders (opponents of the declarer) must prefix any announcements they make with "defensive".
 
-The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the [game or feat]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to re-kontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
+The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the [game or feat]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to rekontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
 
-A defender announcing 45 or Valat must first kontra or subkontra the game, and if declarer or their partner announces 45 after a kontra then they must first re-contra.
+A defender announcing 45 or Valat must first kontra or subkontra the game, and if declarer or their partner announces 45 after a kontra then they must first rekontra.
 
 It is legal for someone to bid Besser Rufer when they don't hold a bird, hoping they find one in the talon. If they don't, they still must announce one even though they cannot make it. Similarly, declarer can announce King Ultimo for their partner's king, hoping that they make it.
 
@@ -102,15 +112,21 @@ If a suit is led it must be followed if possible. If no card of the led suit is 
 
 In negative contracts (see table), play is also subject to the "rising rule": if a player can legally play a card that beats those already played, they must do so.
 
+In the Ouvert contracts, declarer's cards are laid down face-up on the table before the lead to the second trick.
+
+In Trischaken, you may not play the Pagat until it is your only trump.
+
 If a player has announced Pagat, Uhu, Kakadu or King Ultimo, they must try to make the feat even if it is clear they cannot -- the relevant card cannot be deliberately played early or late unless they have no other legal card to play. If there is a trick where one of many announced cards is forced, the player can choose which one to play.
 
 If a suit is led and no trump is played the highest card in that suit wins the trick, otherwise the highest trump does. The winner of the trick leads the next. Tricks are kept face-down by their winner or a player known by the whole table to be on the same side.
 
-## Scoring
+## Point Counting
+
+At the end of play in a contract where the target is an amount of points, the two sides add the cards taken in their tricks to any relevant part of the talon or the cards discarded by declarer during the talon exchange. The points value of these two resultant piles are then counted to determine the winner.
 
 In Rufer, Besser Rufer, Dreier, and Besser Dreier, the three cards discarded by declarer before play as part of the talon exchange are added to the declarer's pile of won tricks. In Sechserdreier, declarer takes the six cards discarded.
 
-In Solo and Solodreier, the talon is given to the defending side unless Solo was played and the called king is found in it, in which case in Cheltenham, the whole talon is taken by the defender. In this case the declarer pays to or receives from all three defenders, but if they failed, any Kontra is cancelled unless it had been Re-Kontra'd or the declarer had made any announcements.
+In Solo and Solodreier, the talon is given to the defending side unless Solo was played and the called king is found in it, in which case in Cheltenham, the whole talon is taken by the defender. In this case the declarer pays to or receives from all three defenders, but if they failed, any Kontra is cancelled unless it had been Rekontra'd or the declarer had made any announcements.
 
 In Solo and Solodreier, if declarer (or partner, if any) announced 45 and Valat (announced or not) is made, the defence do not get the talon -- so even in the unlikely event that the talon holds twenty-six points, the 45 is still made. Similarly, if in Solo the defence bid 45 and make Valat and the called king is in a twenty-six-point talon, then the 45 would be allowed.
 
@@ -124,6 +140,20 @@ To count points, for each set of three cards, or two odd cards at the end of the
 The total is seventy, except in Trischaken where some cards are out of play in the talon.
 
 It is thought this curious way of counting is borrowed from a three-handed game, in which the sets of three cards would be the tricks.
+
+## Scoring
+
+Sum the game points, as modified by any doubling, adding for game and any announcements made, and subtracting for game and any announcements lost. If Solo or Solodreier was played, the value of all annouceable feats is doubled -- both announced and unannounced.
+
+If declarer has been playing alone, they collect in game points from each opponent the figure in the table for the game, each announcement they made, and each opponent's announcement they defeated. For game lost, declarer's announcements lost or defender's announcements made, declarer pays to each opponent the figure in the tables.
+
+If declarer had a partner they each collect from -- or pay to -- one opponent the figure in the tables for game and any announcements.
+
+Doublings must be taken into account for the game and any announcements.
+
+For example, for a made game of Besser Rufer (+1) where declarer had a partner, announced and made Pagat (+2), and failed an unannounced King Ultimo (-1), declarer and declarer's partner each lose 2, and each defender gains 2.
+
+A failed game of Dreier Kontra'd (-3 × 2 = -6), with an announced Rekontra'd Uhu made (+1 × 4 = 4), with defenders making Pagat unannounced (-1, from the point of view of the declarer) would result in declarer losing 9 (-3 × 3 defenders), and each defender gaining 3.
 
 ## Tables
 
@@ -226,6 +256,14 @@ It is thought this curious way of counting is borrowed from a three-handed game,
     </tr>
   </tbody>
 </table>
+
+#### Note 1
+
+In Trischaken, if a player wins no tricks they collect one from every other player. If two take no tricks they each collect one from one opponent. Otherwise, the player taking the most points pays one to each other unless they are forehand, in which case they pay two to each other player.
+
+#### Note 2
+
+In Sechserdreier, forehand receives three from each opponent for winning, but pays six to each for failing.
 
 ### Announcements
 
