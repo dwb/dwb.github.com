@@ -7,7 +7,9 @@ layout: article
 
 ## Introduction
 
-Königsrufen is a trick-taking game for four players in which there is a permanent set of trumps. The contract played is determined by bidding, and in most contracts the object is not to win a certain number of tricks but to capture in the tricks cards amounting to a certain value.
+Königsrufen is an Austrian trick-taking game for four players in which there is a permanent set of trumps. The contract played is determined by bidding, and in most contracts the object is not to win a certain number of tricks but to capture in the tricks cards amounting to a certain value.
+
+This article describes the variant of the game played in Cheltenham in Gloucestershire, England.
 
 The order of a game is as follows:
 
@@ -21,7 +23,7 @@ The order of a game is as follows:
 
 A 54-card Austrian Tarock pack is used. Packs of the same design are used in Hungary, the Czech Republic and Slovenia under the very similar names "Tarokk" and "Tarok". A pack of the same composition is also known in Germany, but is called a "Cego" pack (for the game of the same name), and the pack called "Tarock" in Germany is unsuitable -- it has only 36 cards.
 
-In Cheltenham, a Piatnik "Industrie und Glück" Tarock deck is standard.
+In Cheltenham at least (and presumably in Austria), a Piatnik "Industrie und Glück" Tarock deck is standard.
 
 A French pack of Tarot playing cards can be suitably shortened. The Swiss or Italian pack -- or even the soothsayers' tarot pack -- could be suitably shortened, but have south European suit-signs.
 
@@ -56,7 +58,7 @@ The next game is normally dealt by the person to the right of the old dealer, bu
 
 ## Bidding For Game 
 
-Forehand opens the bidding with Rufer (which only forehand may bid), or any other contract apart from Trischaken or Sechserdreier.
+Forehand opens with a bid of Rufer (which only forehand may bid), or any other contract apart from Trischaken or Sechserdreier.
 
 Bidding then follows anti-clockwise around the table, ending with forehand again. Each player in turn must make a bid of a contract higher (that is, further down the table below) than the previous bid, or pass, forfeiting their chance to bid entirely. When all players have bid or passed, forehand must either pass, or make one final bid, which can be the same contract or higher than the highest bid thus far. The winner of the bidding is known as the declarer.
 
