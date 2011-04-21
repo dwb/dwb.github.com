@@ -16,7 +16,7 @@ The order of a game is as follows:
 4. Playing of tricks
 5. Scoring
 
-### The Cards
+### The Cards
 
 A 54—card Austrian Tarock pack is used. Packs of the same design are used in Hungary, the Czech Republic and Slovenia under the very similar names "Tarokk" and "Tarok". A pack of the same composition is also known in Germany, but is called a "Cego" pack (for the game of the same name), and the pack called "Tarock" in Germany is unsuitable -- it has only 36 cards.
 
@@ -53,7 +53,7 @@ The talon can alternatively be dealt as a packet of six cards at any stage, or a
 
 The next game is normally dealt by the person to the right of the old dealer, but if extra players have joined or left the table than the next game is dealt so that the new forehand is to the right of the previous forehand.
 
-## Bidding For Game 
+## Bidding For Game 
 
 Forehand opens the bidding with Rufer (which only forehand may bid), or any other contract apart from Trischaken or Sechserdreier.
 
@@ -61,11 +61,11 @@ Bidding then follows anti-clockwise around the table, ending with forehand again
 
 If a forehand bid of Rufer is passed around, forehand may switch to Trischaken (by immediately leading a card, skipping announcements and doubling and proceeding directly to the game) or Sechserdreier (by turning over all six cards of the talon).
 
-## Calling a King
+## Calling a King
 
 If declarer bid Rufer (and did not switch it to Trischaken or Sechserdreier as above), Besser Rufer, or Solo, they must now call a king by naming its suit. No-one reveals if they do or do not hold the called king. Declarer may, if they wish, call a king which they hold - in this case they do not play with a partner and the game is scored as such, but this situation is not revealed until the king is played. King Ultimo is also scored as normal in this case. If declarer holds exactly three kings, they may call "the other king" or "the fourth king".
 
-## Exchange with the Talon
+## Exchange with the Talon
 
 If declarer bid Rufer, Besser Rufer, or Dreier, they turn over the top three cards of the talon, followed by the bottom three - showing them to all players. They must choose which group of three cards to take into their hand - the remaining three go to the defenders to score as points, as if it was a won trick.
 
@@ -224,7 +224,7 @@ It is thought this curious way of counting is borrowed from a three-handed game,
   </tbody>
 </table>
 
-## Announcements
+## Announcements
 
 <table>
   <thead>
@@ -275,7 +275,7 @@ It is thought this curious way of counting is borrowed from a three-handed game,
   </tbody>
 </table>
 
-### Doubling
+### Doubling
 
 <table>
   <thead>
