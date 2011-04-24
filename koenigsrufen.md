@@ -71,7 +71,7 @@ If a forehand bid of Rufer is passed around, forehand must either stay with Rufe
 
 ## Calling a King
 
-If declarer bid Rufer (and did not switch it to Trischaken or Sechserdreier as above), Besser Rufer, or Solo, they must now call a king by naming its suit. No-one reveals if they do or do not hold the called king. Declarer may, if they wish, call a king which they hold -- in this case they do not play with a partner and the game is scored as such, but this situation is not revealed until the king is played. King Ultimo is also scored as normal in this case. If declarer holds exactly three kings, they may call "the other king" or "the fourth king".
+If declarer bid Rufer (and did not switch it to Trischaken or Sechserdreier as above), Besser Rufer, or Solo, they must now call a king by naming its suit. The holder of the called king becomes declarer's partner. No-one reveals if they do or do not hold the called king. Declarer may, if they wish, call a king which they hold -- in this case they do not play with a partner and the game is scored as such, but this situation is not revealed until the king is played. King Ultimo is also scored as normal in this case. If declarer holds exactly three kings, they may call "the other king" or "the fourth king".
 
 ## Exchange with the Talon
 
