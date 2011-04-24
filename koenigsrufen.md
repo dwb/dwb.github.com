@@ -89,9 +89,9 @@ Now the announcements and/or doublings start. Announcements are feats that you a
 
 All the announcements apart from 45 also have a game point value when attempted, but not announced in this phase. Apart from 45 and Valat, this includes attempting but failing to make a feat -- such as losing the last trick having played the Pagat.
 
-In Bettel, Piccolo, Bettel Ouvert and Piccolo Ouvert, there are no announceable feats available to any player and so forehand must pass. In Sechserdreier, announceable feats are available to all players except forehand, and so again forehand must pass. Any feats that forehand makes (or fails at) in Sechserdreier are scored at the unannounced rate.
+In Bettel, Piccolo, Bettel Ouvert and Piccolo Ouvert, there are no announceable feats available to any player and so declarer must pass. In Sechserdreier, announceable feats are available to all players except forehand, and so again declarer must pass. Any feats that declarer makes (or fails at) in Sechserdreier are scored at the unannounced rate.
 
-Otherwise, forehand starts by calling zero or more announcements or doublings (as in the table below), and then "pass" to signal they are not calling any more. Defenders (opponents of the declarer) must prefix any announcements they make with "defensive".
+Otherwise, declarer starts by calling zero or more announcements or doublings (as in the table below), and then "pass" to signal they are not calling any more. Defenders (opponents of the declarer) must prefix any announcements they make with "defensive".
 
 The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the [game or feat]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to rekontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
 
