@@ -65,9 +65,9 @@ The next game is normally dealt by the person to the right of the old dealer, bu
 
 Forehand opens with a bid of Rufer (which only forehand may bid), or any other contract apart from Trischaken or Sechserdreier.
 
-Bidding then follows anti-clockwise around the table. Each player in turn must make a bid of a contract higher (that is, further down the table below) than the previous bid, or pass, forfeiting their chance to bid entirely. When all players have bid or passed forehand must either pass, or make one final bid, which can be the same contract or higher than the previous bid. Forehand is the only player that can outbid by bidding the same contract as the previous bidder. The outbid player, if any, may not bid further. The winner of the bidding is known as the declarer.
+Bidding then follows anti-clockwise around the table. Each player in turn must out-bid the current bid, or pass. Once a player has passed, they may not re-enter the bidding for game but they may still take part in the announcements and doubling. To out-bid, players must declare a contract higher (that is, further down the table below) than the current bid; forehand may alternatively declare the same contract as the current bid. Bidding ends once three players have passed. The winner of the bidding is known as the declarer.
 
-If a forehand bid of Rufer is passed around, forehand may switch to Trischaken (by immediately leading a card, skipping announcements and doubling and proceeding directly to the game) or Sechserdreier (by turning over all six cards of the talon), but not any other contract.
+If a forehand bid of Rufer is passed around, forehand must either stay with Rufer by calling a king, switch to Trischaken (by immediately leading a card, skipping announcements and doubling and proceeding directly to the game) or  switch to Sechserdreier (by turning over all six cards of the talon). No other contract may be played in this situation.
 
 ## Calling a King
 
