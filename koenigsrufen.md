@@ -150,9 +150,9 @@ If declarer had a partner they each collect from -- or pay to -- one opponent th
 
 Doublings must be taken into account for the game and any announcements.
 
-For example, for a made game of Besser Rufer (+1) where declarer had a partner, announced and made Pagat (+2), and failed an unannounced King Ultimo (-1), declarer and declarer's partner each lose 2, and each defender gains 2.
+For example, for a made game of Besser Rufer (+1) where declarer had a partner, announced and made Pagat (+2), and failed an unannounced King Ultimo (−1), declarer and declarer's partner each lose 2, and each defender gains 2.
 
-A failed game of Dreier Kontra'd (-3 × 2 = -6), with an announced Rekontra'd Uhu made (+1 × 4 = 4), with defenders making Pagat unannounced (-1, from the point of view of the declarer) would result in declarer losing 9 (-3 × 3 defenders), and each defender gaining 3.
+A failed game of Dreier Kontra'd (−3 × 2 = −6), with an announced Rekontra'd Uhu made (+1 × 4 = 4), with defenders making Pagat unannounced (−1, from the point of view of the declarer) would result in declarer losing 9 (−3 × 3 defenders), and each defender gaining 3.
 
 ## Tables
 
@@ -180,14 +180,14 @@ A failed game of Dreier Kontra'd (-3 × 2 = -6), with an announced Rekontra'd Uh
       <td>Trischaken</td>
       <td></td>
       <td>Negative</td>
-      <td>+1 / -2 (see note 1)</td>
+      <td>+1 / −2 (see note 1)</td>
       <td>No tricks or not most points.</td>
     </tr>
     <tr>
       <td>Sechserdreier</td>
       <td>Use whole talon but play alone.</td>
       <td>Positive</td>
-      <td>+3 / -6 (see note 2)</td>
+      <td>+3 / −6 (see note 2)</td>
       <td>36 points</td>
     </tr>
     <tr>
