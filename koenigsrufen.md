@@ -37,10 +37,10 @@ A French pack of Tarot playing cards can be suitably shortened. The Swiss or Ita
 In the Austrian pack there are:
 
 * Twenty-two trumps: the highest, called the Sküs (from the Italian for "excuse"), is un-numbered, but the remainder are numbered from XXI (high) to I (low). Certain numbered trumps have names:
-    * I: Pagat (from the Italian "bagatella", meaning "trifle" or "conjourer's trick")
-    * II: Uhu (German for "eagle-owl", and is presumably a satirical reference to the Imperial Eagle on the card)
-    * III: Kakadu (German for "cockatoo")
-    * XXI: Mond (Italian for "world", and on Italian cards the world is indeed illustrated on this card. Also German for "moon", and so the moon is shown on modern Austrian cards)
+	* I: Pagat (from the Italian "bagatella", meaning "trifle" or "conjourer's trick")
+	* II: Uhu (German for "eagle-owl", and is presumably a satirical reference to the Imperial Eagle on the card)
+	* III: Kakadu (German for "cockatoo")
+	* XXI: Mond (Italian for "world", and on Italian cards the world is indeed illustrated on this card. Also German for "moon", and so the moon is shown on modern Austrian cards)
 * Four court cards and four pip cards each in hearts and diamonds, ranking King (high), Queen, Knight, Jack, 1, 2, 3, 4 (low).
 * Four court cards and four pip cards each in clubs and spades, ranking King (high), Queen, Knight, Jack, 10, 9, 8, 7 (low).
 
@@ -163,99 +163,99 @@ A failed game of Dreier Kontra'd (−3 × 2 = −6), with an announced Rekontra'
 
 <table>
   <thead>
-    <tr>
-      <th>Game</th>
-      <th>Rules</th>
-      <th>Type</th>
-      <th>Value</th>
-      <th>Goal</th>
-    </tr>
+	<tr>
+	  <th>Game</th>
+	  <th>Rules</th>
+	  <th>Type</th>
+	  <th>Value</th>
+	  <th>Goal</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Rufer</td>
-      <td>Use half the talon and play with the owner of the called king.</td>
-      <td>Positive</td>
-      <td>1</td>
-      <td>36 points</td>
-    </tr>
-    <tr>
-      <td>Trischaken</td>
-      <td></td>
-      <td>Negative</td>
-      <td>+1 / −2 (see note 1)</td>
-      <td>No tricks or not most points.</td>
-    </tr>
-    <tr>
-      <td>Sechserdreier</td>
-      <td>Use whole talon but play alone.</td>
-      <td>Positive</td>
-      <td>+3 / −6 (see note 2)</td>
-      <td>36 points</td>
-    </tr>
-    <tr>
-      <td>Solo</td>
-      <td>Play with the owner of the called king without the talon.</td>
-      <td>Positive</td>
-      <td>2</td>
-      <td>36 points</td>
-    </tr>
-    <tr>
-      <td>Piccolo</td>
-      <td>Play alone.</td>
-      <td>Negative</td>
-      <td>2</td>
-      <td>Win exactly one trick.</td>
-    </tr>
-    <tr>
-      <td>Besser Rufer</td>
-      <td>Call a king. Use half the talon and play with the owner of the called king.</td>
-      <td>Positive</td>
-      <td>1 (plus announced bird(s))</td>
-      <td>36 points, plus announced Pagat, Uhu, or Kakadu.</td>
-    </tr>
-    <tr>
-      <td>Bettel</td>
-      <td>Play alone</td>
-      <td>Negative</td>
-      <td>3</td>
-      <td>Win no tricks.</td>
-    </tr>
-    <tr>
-      <td>Dreier</td>
-      <td>Use half the talon, but play alone.</td>
-      <td>Positive</td>
-      <td>3</td>
-      <td>36 points</td>
-    </tr>
-    <tr>
-      <td>Piccolo Ouvert</td>
-      <td>Play alone.</td>
-      <td>Negative</td>
-      <td>4</td>
-      <td>Win exactly one trick, with hand face-up after first trick.</td>
-    </tr>
-    <tr>
-      <td>Besserdreier</td>
-      <td>Use half the talon, but play alone.</td>
-      <td>Positive</td>
-      <td>3 (plus announced bird(s))</td>
-      <td>36 points, plus announced Pagat, Uhu, or Kakadu.</td>
-    </tr>
-    <tr>
-      <td>Bettel Ouvert</td>
-      <td>Play alone.</td>
-      <td>Negative</td>
-      <td>6</td>
-      <td>Win no tricks, with hand face-up after first trick.</td>
-    </tr>
-    <tr>
-      <td>Solodreier</td>
-      <td>Play alone, using none of the talon.</td>
-      <td>Positive</td>
-      <td>6</td>
-      <td>36 points</td>
-    </tr>
+	<tr>
+	  <td>Rufer</td>
+	  <td>Use half the talon and play with the owner of the called king.</td>
+	  <td>Positive</td>
+	  <td>1</td>
+	  <td>36 points</td>
+	</tr>
+	<tr>
+	  <td>Trischaken</td>
+	  <td></td>
+	  <td>Negative</td>
+	  <td>+1 / −2 (see note 1)</td>
+	  <td>No tricks or not most points.</td>
+	</tr>
+	<tr>
+	  <td>Sechserdreier</td>
+	  <td>Use whole talon but play alone.</td>
+	  <td>Positive</td>
+	  <td>+3 / −6 (see note 2)</td>
+	  <td>36 points</td>
+	</tr>
+	<tr>
+	  <td>Solo</td>
+	  <td>Play with the owner of the called king without the talon.</td>
+	  <td>Positive</td>
+	  <td>2</td>
+	  <td>36 points</td>
+	</tr>
+	<tr>
+	  <td>Piccolo</td>
+	  <td>Play alone.</td>
+	  <td>Negative</td>
+	  <td>2</td>
+	  <td>Win exactly one trick.</td>
+	</tr>
+	<tr>
+	  <td>Besser Rufer</td>
+	  <td>Call a king. Use half the talon and play with the owner of the called king.</td>
+	  <td>Positive</td>
+	  <td>1 (plus announced bird(s))</td>
+	  <td>36 points, plus announced Pagat, Uhu, or Kakadu.</td>
+	</tr>
+	<tr>
+	  <td>Bettel</td>
+	  <td>Play alone</td>
+	  <td>Negative</td>
+	  <td>3</td>
+	  <td>Win no tricks.</td>
+	</tr>
+	<tr>
+	  <td>Dreier</td>
+	  <td>Use half the talon, but play alone.</td>
+	  <td>Positive</td>
+	  <td>3</td>
+	  <td>36 points</td>
+	</tr>
+	<tr>
+	  <td>Piccolo Ouvert</td>
+	  <td>Play alone.</td>
+	  <td>Negative</td>
+	  <td>4</td>
+	  <td>Win exactly one trick, with hand face-up after first trick.</td>
+	</tr>
+	<tr>
+	  <td>Besserdreier</td>
+	  <td>Use half the talon, but play alone.</td>
+	  <td>Positive</td>
+	  <td>3 (plus announced bird(s))</td>
+	  <td>36 points, plus announced Pagat, Uhu, or Kakadu.</td>
+	</tr>
+	<tr>
+	  <td>Bettel Ouvert</td>
+	  <td>Play alone.</td>
+	  <td>Negative</td>
+	  <td>6</td>
+	  <td>Win no tricks, with hand face-up after first trick.</td>
+	</tr>
+	<tr>
+	  <td>Solodreier</td>
+	  <td>Play alone, using none of the talon.</td>
+	  <td>Positive</td>
+	  <td>6</td>
+	  <td>36 points</td>
+	</tr>
   </tbody>
 </table>
 
@@ -271,50 +271,50 @@ In Sechserdreier, forehand receives three from each opponent for winning, but pa
 
 <table>
   <thead>
-    <tr>
-      <th>Name</th>
-      <th>Announced Value</th>
-      <th>Unannounced Value</th>
-      <th>Goal</th>
-    </tr>
+	<tr>
+	  <th>Name</th>
+	  <th>Announced Value</th>
+	  <th>Unannounced Value</th>
+	  <th>Goal</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Pagat Ultimo</td>
-      <td>2</td>
-      <td>1</td>
-      <td>Use Pagat to win last trick.</td>
-    </tr>
-    <tr>
-      <td>King Ultimo</td>
-      <td>2</td>
-      <td>1</td>
-      <td>Called king is won by declarer or declarer's partner in last trick.</td>
-    </tr>
-    <tr>
-      <td>Uhu</td>
-      <td>3</td>
-      <td>1</td>
-      <td>Use Uhu to win last trick but one.</td>
-    </tr>
-    <tr>
-      <td>Kakadu</td>
-      <td>4</td>
-      <td>1</td>
-      <td>Use Kakadu to win last trick but two.</td>
-    </tr>
-    <tr>
-      <td>45</td>
-      <td>2</td>
-      <td>0</td>
-      <td>Take 45 points instead of the usual 36.</td>
-    </tr>
-    <tr>
-      <td>Valat</td>
-      <td>8</td>
-      <td>4</td>
-      <td>Win all tricks.</td>
-    </tr>
+	<tr>
+	  <td>Pagat Ultimo</td>
+	  <td>2</td>
+	  <td>1</td>
+	  <td>Use Pagat to win last trick.</td>
+	</tr>
+	<tr>
+	  <td>King Ultimo</td>
+	  <td>2</td>
+	  <td>1</td>
+	  <td>Called king is won by declarer or declarer's partner in last trick.</td>
+	</tr>
+	<tr>
+	  <td>Uhu</td>
+	  <td>3</td>
+	  <td>1</td>
+	  <td>Use Uhu to win last trick but one.</td>
+	</tr>
+	<tr>
+	  <td>Kakadu</td>
+	  <td>4</td>
+	  <td>1</td>
+	  <td>Use Kakadu to win last trick but two.</td>
+	</tr>
+	<tr>
+	  <td>45</td>
+	  <td>2</td>
+	  <td>0</td>
+	  <td>Take 45 points instead of the usual 36.</td>
+	</tr>
+	<tr>
+	  <td>Valat</td>
+	  <td>8</td>
+	  <td>4</td>
+	  <td>Win all tricks.</td>
+	</tr>
   </tbody>
 </table>
 
@@ -322,28 +322,28 @@ In Sechserdreier, forehand receives three from each opponent for winning, but pa
 
 <table>
   <thead>
-    <tr>
-      <th>Name</th>
-      <th>Effect</th>
-      <th>Objective</th>
-    </tr>
+	<tr>
+	  <th>Name</th>
+	  <th>Effect</th>
+	  <th>Objective</th>
+	</tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Kontra</td>
-      <td>Double value of game or announcement.</td>
-      <td>Defeat announcement or contracted game.</td>
-    </tr>
-    <tr>
-      <td>Rekontra</td>
-      <td>Double a previous Kontra, quadroupling the original value.</td>
-      <td>Achieve Kontra'd goal.</td>
-    </tr>
-    <tr>
-      <td>Subkontra</td>
-      <td>Double a previous Rekontra, multiplying the original value eightfold.</td>
-      <td>Defeat Rekontra'd goal.</td>
-    </tr>
+	<tr>
+	  <td>Kontra</td>
+	  <td>Double value of game or announcement.</td>
+	  <td>Defeat announcement or contracted game.</td>
+	</tr>
+	<tr>
+	  <td>Rekontra</td>
+	  <td>Double a previous Kontra, quadroupling the original value.</td>
+	  <td>Achieve Kontra'd goal.</td>
+	</tr>
+	<tr>
+	  <td>Subkontra</td>
+	  <td>Double a previous Rekontra, multiplying the original value eightfold.</td>
+	  <td>Defeat Rekontra'd goal.</td>
+	</tr>
   </tbody>
 </table>
 
