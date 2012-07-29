@@ -36,13 +36,15 @@ A French pack of Tarot playing cards can be suitably shortened. The Swiss or Ita
 
 In the Austrian pack there are:
 
-* Twenty-two trumps: the highest, called the Sküs (from the Italian for "excuse"), is un-numbered, but the remainder are numbered from XXI (high) to I (low). Certain numbered trumps have names:
+* Twenty-two trumps: the highest, called the Sküs (from the Italian for "excuse"), is un-numbered and resembles a jester or acrobat, but the remainder are numbered from XXI (high) to I (low). Certain numbered trumps have names:
 	* I: Pagat (from the Italian "bagatella", meaning "trifle" or "conjourer's trick")
 	* II: Uhu (German for "eagle-owl", and is presumably a satirical reference to the Imperial Eagle on the card)
 	* III: Kakadu (German for "cockatoo")
 	* XXI: Mond (Italian for "world", and on Italian cards the world is indeed illustrated on this card. Also German for "moon", and so the moon is shown on modern Austrian cards)
 * Four court cards and four pip cards each in hearts and diamonds, ranking King (high), Queen, Knight, Jack, 1, 2, 3, 4 (low).
 * Four court cards and four pip cards each in clubs and spades, ranking King (high), Queen, Knight, Jack, 10, 9, 8, 7 (low).
+
+Note that labelling 10--7, but also 1--4 "high--low" is not a mistake: in the red suits, the pip cards' values are reversed. This only usually becomes a deciding factor in Trischaken.
 
 The Pagat, Uhu and Kakadu are collectively known as the "birds".
 
