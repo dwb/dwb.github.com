@@ -1,1 +1,3 @@
 markdown: rdiscount
+rdiscount:
+  toc_token: "{:toc}"
