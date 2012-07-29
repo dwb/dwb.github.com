@@ -36,7 +36,7 @@ A French pack of Tarot playing cards can be suitably shortened. The Swiss or Ita
 
 In the Austrian pack there are:
 
-* Twenty-two trumps: the highest, called the Sküs (from the Ialian for "excuse"), is un-numbered, but the remainder are numbered from XXI (high) to I (low). Certain numbered trumps have names:
+* Twenty-two trumps: the highest, called the Sküs (from the Italian for "excuse"), is un-numbered, but the remainder are numbered from XXI (high) to I (low). Certain numbered trumps have names:
     * I: Pagat (from the Italian "bagatella", meaning "trifle" or "conjourer's trick")
     * II: Uhu (German for "eagle-owl", and is presumably a satirical reference to the Imperial Eagle on the card)
     * III: Kakadu (German for "cockatoo")
