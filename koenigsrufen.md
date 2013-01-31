@@ -98,7 +98,7 @@ In Bettel, Piccolo, Bettel Ouvert and Piccolo Ouvert, there are no announceable 
 
 Otherwise, declarer starts by calling zero or more announcements or doublings (as in the table below), and then "pass" to signal they are not calling any more. Defenders (opponents of the declarer) must prefix any announcements they make with "defensive".
 
-The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the \[game or feat\]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to rekontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, briging the game or feat to eight times its normal value.
+The game and any announced feats are scored separately -- even in Besser Rufer -- and so can be doubled separately by any successive opponent by announcing "kontra the \[game or feat\]". This doubles the amount of points the game or feat is worth -- both to win or lose by. The declarer or announcer of the feat then has the option to rekontra, quadroupling the points value. Finally, the opponent can then sub-kontra if they wish, bringing the game or feat to eight times its normal value.
 
 A defender announcing 45 or Valat must first kontra or subkontra the game, and if declarer or their partner announces 45 after a kontra then they must first rekontra.
 
