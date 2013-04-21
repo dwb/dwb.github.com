@@ -56,7 +56,7 @@ The dealer shuffles and offers the pack to their left to be cut. If the player o
 
 If, however, the player to the dealer's left raps the pack with their knuckles to signify that he does not wish to cut, then forehand chooses whether the dealer shall deal normally as above, or else deal six as the talon follwed by four packets of twelve. In this case, forehand, second, and third hands choose -- in this order -- which pile to pick up, with the dealer taking the last packet. The rapping is called "klopfing".
 
-The talon can alternatively be dealt as a packet of six cards at any stage, or as packets of three cards at any two stages, provided the p1ayers' hands are dealt in packets of six cards (or twelve if that option was chosen after a klopf).
+The talon can alternatively be dealt as a packet of six cards at any stage, or as packets of three cards at any two stages, provided the players' hands are dealt in packets of six cards (or twelve if that option was chosen after a klopf).
 
 ### When more than four players meet
 
