@@ -183,7 +183,7 @@ A failed game of Dreier Kontra'd (−3 × 2 = −6), with an announced Rekontra'
 	</tr>
 	<tr>
 	  <td>Trischaken</td>
-	  <td></td>
+	  <td>Everyone plays for themselves.</td>
 	  <td>Negative</td>
 	  <td>+1 / −2 (see note 1)</td>
 	  <td>No tricks or not most points.</td>
