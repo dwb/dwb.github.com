@@ -12,7 +12,7 @@ layout: article
 
 Königsrufen is an Austrian trick-taking game for four players in which there is a permanent set of trumps. The contract played is determined by bidding, and in most contracts the object is not to win a certain number of tricks but to capture in the tricks cards amounting to a certain value.
 
-This article describes the variant of the game played in Cheltenham in Gloucestershire, England.
+This article describes the variant of the game played in Cheltenham in Gloucestershire, England – and now also at [Made by Many](http://madebymany.com) in London.
 
 The order of a game is as follows:
 
