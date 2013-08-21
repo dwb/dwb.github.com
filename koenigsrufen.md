@@ -352,6 +352,6 @@ In Sechserdreier, forehand receives three from each opponent for winning, but pa
 
 ---
 
-Compiled by Dan
+Compiled by Dan Bee.
 
-Email me with comments, suggestions, corrections, other things -- the letter 'd', then an at sign, then 'dwbee.net'.
+[Email me](mailto:dan@stompydan.net) with comments, suggestions, corrections, other things.
