@@ -54,7 +54,7 @@ One player -- say the owner of the cards -- deals one card at a time anti-clockw
 
 The dealer shuffles and offers the pack to their left to be cut. If the player on the left does cut, then dealer places six cards face down in the centre of the table as the "talon" and then deals anti-clockwise in packets of six cards, starting with forehand (the player to the dealer's right). Six cards are then dealt to each player again to give twelve cards to each hand.
 
-If, however, the player to the dealer's left raps the pack with their knuckles to signify that he does not wish to cut, then forehand chooses whether the dealer shall deal normally as above, or else deal six as the talon follwed by four packets of twelve. In this case, forehand, second, and third hands choose -- in this order -- which pile to pick up, with the dealer taking the last packet. The rapping is called "klopfing".
+If, however, the player to the dealer's left raps the pack with their knuckles to signify that they do not wish to cut, then forehand chooses whether the dealer shall deal normally as above, or else deal six as the talon follwed by four packets of twelve. In this case, forehand, second, and third hands choose -- in this order -- which pile to pick up, with the dealer taking the last packet. The rapping is called "klopfing".
 
 The talon can alternatively be dealt as a packet of six cards at any stage, or as packets of three cards at any two stages, provided the players' hands are dealt in packets of six cards (or twelve if that option was chosen after a klopf).
 
